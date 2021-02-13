@@ -2,7 +2,7 @@
 
 ### To-Do
 
-#### C1
+#### Component 1
 
 > 1) Going through all the papers.
 > 2) Selecting upto 2-3 base papers.
